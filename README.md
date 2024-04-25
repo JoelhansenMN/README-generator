@@ -1,4 +1,4 @@
-# test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
 
@@ -17,23 +17,24 @@
   [Questions](#questions)
   
   ## Description
-    test
+    For this project we were tasked with creating an application that would create a professional README.md file.  This project utilized inquirer and node as part of the application development.  An array of questions prompting user input for the creatation of the readme and a generate markdown Javascript file was also utilized to create this application
 
   ## Installation
-    test
+    standard installation; user prompted through terminal
 
   ## Usage
-  test
+  Javascript, Inquirer package
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-    test
+    Joel Hansen
 
   ## Tests
-    test
+    N/A
 
   ## Questions:
   Email:joelhansen22@gmail.com
+  
   [Github](https://www.github.com/joelhansenmn)
