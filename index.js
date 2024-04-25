@@ -31,7 +31,7 @@ const questions = [
   },
 
   {
-    type: "checkbox",
+    type: "list",
     name: "license",
     message: "Select the license associated with trehis project",
     choices: ["MIT", "Apache 2.0", "none"]
